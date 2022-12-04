@@ -1,0 +1,15 @@
+# Title: Soulmaestro/Blackhole
+#
+#
+# Selfmade list of hosts to blackhole with Pihole
+# Number of unique domains: 160,851
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/Soulmaestro/Blacklist/master/hosts
+# Project home page: https://github.com/Soulmaestro/Blackhole
+#
+# ===============================================================
+
+
+
+# [doubleclick.net]
+0.0.0.0 static.doubleclick.net
